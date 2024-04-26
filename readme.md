@@ -3,8 +3,11 @@
 /login
 /profile - profile page with boards
 /feed - feed page with all different pins
-/save/:pinid - save karege pin ko kisi noard mein
-/delete/:pinid - delete karege pin ko kisi board se
+/save/:pinid 
+/delete/:pinid
 /logout
 /edit
 /upload
+
+
+Start with npx nodemon in terminal
